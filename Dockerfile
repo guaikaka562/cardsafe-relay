@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8080
 
 # 启动命令
-CMD ["node", "index.js"]
+CMD ["node", "server.js"]
